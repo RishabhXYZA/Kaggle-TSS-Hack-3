@@ -19,3 +19,6 @@ Kaggle Competition Hack-3 organized by TSS
 4. Hypertuned Model
 5. Feature Importance
 6. Prediction Error Plot
+
+# Kaggle Competition Link
+https://www.kaggle.com/competitions/thapar-summer-school-2025-hack-iii
